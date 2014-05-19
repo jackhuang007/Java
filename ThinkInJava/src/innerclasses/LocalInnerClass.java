@@ -1,3 +1,5 @@
+package innerclasses;
+
 //: innerclasses/LocalInnerClass.java
 // Holds a sequence of Objects.
 import static net.mindview.util.Print.*;
