@@ -18,6 +18,7 @@ int main() {
   HasF hf;
   Manipulator<HasF> manipulator(hf);
   manipulator.manipulate();
-} /* Output:
+} 
+/* Output:
 HasF::f()
 ///:~
